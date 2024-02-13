@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: jessenieboer.github.io
+Token: bbfa6b8cc3c4a9d0b0a3352a8f4e78aaf045b3f4295a17a529be7a74c99fcece
